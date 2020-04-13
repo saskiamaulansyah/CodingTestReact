@@ -1,0 +1,3 @@
+D:\Code\LiveCodingTest\LiveCodingTest\obj\Debug\LiveCodingTest.njsprojAssemblyReference.cache
+D:\Code\LiveCodingTest\LiveCodingTest\obj\Debug\LiveCodingTest.njsproj.CoreCompileInputs.cache
+D:\Code\LiveCodingTest\LiveCodingTest\bin\Microsoft.NodejsTools.WebRole.dll
